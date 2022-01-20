@@ -24,7 +24,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := $(PRODUCT_RELEASE_NAME)
 PRODUCT_NAME := twrp_$(PRODUCT_DEVICE)
 PRODUCT_BRAND := oneplus
-PRODUCT_MODEL := KB2003
+PRODUCT_MODEL := KB2005
 PRODUCT_MANUFACTURER := oneplus
 
 # Inherit from hardware-specific part of the product configuration
